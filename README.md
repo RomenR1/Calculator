@@ -2,6 +2,8 @@
 
 This is a simple JavaScript calculator that allows you to perform basic arithmetic operations. It provides a user interface with a display screen to enter and view calculations.
 
+## Live view
+[Click me](https://codepen.io/romenrakholiya/pen/BaGwdPW)
 ## Features
 
 - Enter numeric values and perform calculations using the provided operators (+, -, *, /).
